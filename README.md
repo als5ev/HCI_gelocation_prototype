@@ -6,6 +6,8 @@ __Demos:__
 
 ![Login](img/Login.png)
 
+![Logged_in](img/Logged_in.png)
+
 ![Logout](img/Logout.png)
 
 ![Fail](img/Fail.png)
