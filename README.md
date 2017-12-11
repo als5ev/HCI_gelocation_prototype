@@ -6,7 +6,7 @@ __Demos:__
 
 ![Login](img/Login.png)
 
-![Logout](https://github.com/als5ev/HCI_gelocation_prototype/img/Logout.png)
+![Logout](img/Logout.png)
 
-![Fail](https://github.com/als5ev/HCI_gelocation_prototype/img/Fail.png)
+![Fail](img/Fail.png)
 
