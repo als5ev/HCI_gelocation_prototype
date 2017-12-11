@@ -17,7 +17,7 @@ function getLocation() {
 function validateLocation(position) {
 
     var comp_lat = 38.03;
-    var comp_long = -30;
+    var comp_long = -78.506;
 
     if (Math.abs(comp_lat-position.coords.latitude) > .25 || Math.abs(comp_long-position.coords.longitude) > .25) {
         state.innerText = "Geolocation failure";
